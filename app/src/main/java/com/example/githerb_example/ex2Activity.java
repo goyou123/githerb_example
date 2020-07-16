@@ -14,5 +14,7 @@ public class ex2Activity extends AppCompatActivity {
 
         text1 = (TextView)findViewById(R.id.text);
         text1.setText("충돌가능 김청아");
+
+        //청아누나가 코드 치고있을때 내가 commit 해보기
     }
 }
