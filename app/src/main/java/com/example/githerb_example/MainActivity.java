@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         text = (TextView)findViewById(R.id.text);
-        text.setText("깃허브 연동 예제입니다.");
+        text.setText("충돌실험시작 - 은찬");
 
 
         //김청아 추가
