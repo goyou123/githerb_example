@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
         text = (TextView)findViewById(R.id.text);
         text.setText("깃허브 연동 예제입니다.");
+
+
+        //김청아 추가
     }
 }
