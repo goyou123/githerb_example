@@ -13,6 +13,6 @@ public class ex2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_ex2);
 
         text1 = (TextView)findViewById(R.id.text);
-        text1.setText("충돌가능?");
+        text1.setText("충돌가능 김청아");
     }
 }
